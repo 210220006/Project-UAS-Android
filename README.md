@@ -23,3 +23,5 @@ Tampilan saat melakukan pencarian pada aplikasi biodata pahlawan
 # Tampilan Data
 ![alt text](https://github.com/210320003/Projek-UAS-Android/blob/main/tampilan%20saat%20menampilkan%20salah%201%20data.jpg?raw=true)
 Tampilan saat mengklik salah satu data pahlawan
+[Link Jurnal Internasional](https://iocscience.org/ejournal/index.php/mantik/article/download/3325/2565/10909)
+[Link Jurnal Nasional](https://journal.ibrahimy.ac.id/index.php/JIMI/article/view/892)
